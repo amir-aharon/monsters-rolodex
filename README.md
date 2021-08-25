@@ -1,5 +1,3 @@
 # monsters-rolodex
 
-### I used:
-+ -ReactJS
-+ -NPM
+#### Made with ReactJS
