@@ -1,3 +1,3 @@
 # monsters-rolodex
 
-#### Made with ReactJS
+### Made with ReactJS
